@@ -2812,3 +2812,18 @@ If "No", you can manually reload the layout from the "User Layouts" section late
 [2021.01.26-16.07.18:696][540]LogSlate: Window 'Pick Parent Class' being destroyed
 [2021.01.26-16.07.43:445][321]LogSlate: Window 'Pick Parent Class' being destroyed
 [2021.01.26-16.09.20:680][488]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.26-16.13.33:436][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.01.26-16.13.33:440][104]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/AnastasiaB/Levels/Level_001' took 0.017
+[2021.01.26-16.13.33:441][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnastasiaB/Main/TesActor] ([1] browsable assets)...
+[2021.01.26-16.13.33:441][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnastasiaB/Main/TesActor]
+[2021.01.26-16.13.33:453][104]LogSavePackage: Moving '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/TesActor_Auto3601C27EF4F15AA0978488C9CA4FD18F6.tmp' to '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/Autosaves/Game/AnastasiaB/Main/TesActor_Auto3.uasset'
+[2021.01.26-16.13.33:455][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnastasiaB/Main/TesActor2] ([1] browsable assets)...
+[2021.01.26-16.13.33:455][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnastasiaB/Main/TesActor2]
+[2021.01.26-16.13.33:465][104]LogSavePackage: Moving '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/TesActor2_Auto396BF43ED4741E411C6E2FBB7068D7CA5.tmp' to '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/Autosaves/Game/AnastasiaB/Main/TesActor2_Auto3.uasset'
+[2021.01.26-16.13.33:467][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnastasiaB/Main/TesActor3] ([1] browsable assets)...
+[2021.01.26-16.13.33:467][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnastasiaB/Main/TesActor3]
+[2021.01.26-16.13.33:479][104]LogSavePackage: Moving '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/TesActor3_Auto3ADDCE82F4C3A3C5A511952A1B98FDD52.tmp' to '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/Autosaves/Game/AnastasiaB/Main/TesActor3_Auto3.uasset'
+[2021.01.26-16.13.33:480][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnastasiaB/Main/TesActor4] ([1] browsable assets)...
+[2021.01.26-16.13.33:480][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnastasiaB/Main/TesActor4]
+[2021.01.26-16.13.33:491][104]LogSavePackage: Moving '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/TesActor4_Auto3BB3884B94E549278256B44A34DA23037.tmp' to '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/Autosaves/Game/AnastasiaB/Main/TesActor4_Auto3.uasset'
+[2021.01.26-16.13.33:492][104]LogFileHelpers: Auto-saving content packages took 0.053
