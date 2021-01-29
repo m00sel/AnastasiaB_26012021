@@ -13210,3 +13210,4 @@ Script Stack (0 frames):
 [2021.01.29-16.07.17:598][549]LogSavePackage: Moving '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Saved/Level_001C66A8C544BCAD654B6774F95CE2D9423.tmp' to '../../../../../../GeekBrains/AnastasiaB/26.01.2021/AnastasiaB_26012021/Content/AnastasiaB/Levels/Level_001.umap'
 [2021.01.29-16.07.17:657][549]AssetCheck: New page: Asset Save: Level_001
 [2021.01.29-16.07.17:657][549]LogContentValidation: Display: Validating World /Game/AnastasiaB/Levels/Level_001.Level_001
+[2021.01.29-16.14.49:009][ 75]LogSlate: Window 'Source Control Login' being destroyed
